@@ -1,0 +1,46 @@
+{
+  "name": "jdf-sass-old",
+  "author": {
+    "name": "wshxbqq",
+    "email": "wshxbqq@gmail.com",
+    "url": "https://github.com/jdf2e/jdf-sass-old"
+  },
+  "bugs": {
+    "url": "https://github.com/jdf2e/jdf-sass-old/issues"
+  },
+  "dependencies": {
+    "tar": "~2.1.1"
+  },
+  "description": "deprecated old sass",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "files": [
+    "scripts",
+    "index.js",
+    "node_modules.tar"
+  ],
+  "homepage": "https://github.com/jdf2e/jdf-sass-old",
+  "keywords": [
+    "jdf"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "wshxbqq",
+      "email": "wshxbqq@gmail.com"
+    }
+  ],
+  
+  "optionalDependencies": {},
+  "readme": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdf2e/jdf-sass-old"
+  },
+  "scripts": {
+    "install": "node scripts/install.js"
+  },
+  "version": "1.0.6"
+}
